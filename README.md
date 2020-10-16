@@ -10,7 +10,7 @@
 
 
 - 🌱 I’m currently learning <br>
-1.learning web development
+1.learning web development<br>
 2.learning DS
 - 💬 currently brushing up my skills in<br>
 1.C<br>
