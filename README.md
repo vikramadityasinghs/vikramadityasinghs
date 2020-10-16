@@ -19,6 +19,4 @@
 4.JAVASCRIPT<br>
 - 📫 How to reach me:<br> 
 <a href="https://www.linkedin.com/in/vikramadityasinghs/" rel="nofollow">LinkedIn</a><br>
-<a href="saxenavikramadityasingh@gmail.com" rel="nofollow">Email</a>
-
-
+Email: saxenavikramadityasingh@gmail.com
