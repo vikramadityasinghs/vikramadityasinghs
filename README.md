@@ -19,10 +19,11 @@
 1.learning web development<br>
 2.learning DS
 - 💬 currently brushing up my skills in<br>
-1.C<br>
-2.C++<br>
+1.<img align="left" alt="C" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" />C<br>
+2.<img align="left" alt="C++" width="20px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png"/>C++<br>
 3.HTML<br>
 4.JAVASCRIPT<br>
+5.<img align="left" alt="Git" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/social-226-96741.png" /> Git<br>
 - 📫 How to reach me:<br> 
 <a href="https://www.linkedin.com/in/vikramadityasinghs/" rel="nofollow">LinkedIn</a><br>
 Email: saxenavikramadityasingh@gmail.com
