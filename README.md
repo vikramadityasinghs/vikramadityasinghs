@@ -1,11 +1,12 @@
 ### Hi there 👋, My name is Vikramaditya
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQE2lg0leQvf9g/profile-displaybackgroundimage-shrink_350_1400/0?e=1608163200&v=beta&t=O9DO6s6YDnbecOPMQMDHkGDabaJdfLN6SbAq00-bJbQ" alt="LinkedIn info">
 
-<br>
-![](https://komarev.com/ghpvc/?username=vikramadityasinghs)
-![](https://komarev.com/ghpvc/?username=vikramadityasinghs&color=green)
-![](https://komarev.com/ghpvc/?usernamevikramadityasinghs&style=flat-square)
-![](https://komarev.com/ghpvc/?username=vikramadityasinghs&label=PROFILE+VIEWS)
+<br><table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/vikramadityasinghs/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
 
 <b>Computer Science student pursuing specialization in the field of Information Technology</b><br>
 <b>Currently trying to stack up skills to become a Web/IoT Developer</b>
