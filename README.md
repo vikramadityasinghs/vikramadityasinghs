@@ -22,8 +22,8 @@
 1.<img align="left" alt="C" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" />C<br>
 2.<img align="left" alt="C++" width="20px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png"/>C++<br>
 3.<img align="left" alt="HTML" width="20px" src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png"/>HTML<br>
-4.<img align="left" alt="C++" width="20px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png"/>JAVASCRIPT<br>
-5.<img align="left" alt="Git" width="20px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /> Git<br>
+4.<img align="left" alt="C++" width="20px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png"/>Git<br>
+5.<img align="left" alt="Git" width="20px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />JAVASCRIPT<br>
 - 📫 How to reach me:<br> 
 <a href="https://www.linkedin.com/in/vikramadityasinghs/" rel="nofollow">LinkedIn</a><br>
 Email: saxenavikramadityasingh@gmail.com
