@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Vikramaditya
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQE2lg0leQvf9g/profile-displaybackgroundimage-shrink_350_1400/0/1601019843733?e=1613606400&v=beta&t=lZmYxOT_Ho5PYcjrokz25lE2IX83cswBou_rfOp4WPo" alt="LinkedIn info">
+<img src="Connor Hamilton (1).png" alt="LinkedIn info">
 
 <br><table>
   <tr>
