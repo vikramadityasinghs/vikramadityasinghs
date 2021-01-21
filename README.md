@@ -2,7 +2,10 @@
 <img src="Connor Hamilton (1).png" alt="LinkedIn info">
 
 <br>
-![Vikramaditya's github stats](https://github-readme-stats.vercel.app/api?username=vikramadityasinghs&show_icons=true&theme=dark)  
+
+
+
+[![Vikramaditya's github stats](https://github-readme-stats.vercel.app/api?username=vikramadityasinghs&show_icons=true&theme=dark)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramadityasinghs&layout=compact&theme=dark)](https://github.com/vikramadiyasinghs/vikramadiyasinghs)
 
 <b>Computer Science student pursuing specialization in the field of Information Technology</b><br>
