@@ -7,7 +7,7 @@
     <td><img src="https://profile-counter.glitch.me/vikramadityasinghs/count.svg" alt="vistor count" height="30" /></td>
   </tr>
 </table>
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vikramadityasinghs)](https://github.com/anuraghazra/github-readme-stats)
 <b>Computer Science student pursuing specialization in the field of Information Technology</b><br>
 <b>Currently trying to stack up skills to become a Web/IoT Developer</b>
 
