@@ -1,18 +1,20 @@
 ### Hi there 👋, My name is Vikramaditya
 <img src="Connor Hamilton (1).png" alt="LinkedIn info">
 
-<br><table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/vikramadityasinghs/count.svg" alt="vistor count" height="30" /></td>
-  </tr>
-</table> 
-
+<br>
 ![Vikramaditya's github stats](https://github-readme-stats.vercel.app/api?username=vikramadityasinghs&show_icons=true&theme=dark)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramadityasinghs&layout=compact&theme=dark)](https://github.com/vikramadiyasinghs/vikramadiyasinghs)
 
 <b>Computer Science student pursuing specialization in the field of Information Technology</b><br>
 <b>Currently trying to stack up skills to become a Web/IoT Developer</b>
+
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/vikramadityasinghs/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table> 
 
 - 🔭 I’m currently working on <br>
 1.personal projects
