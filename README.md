@@ -8,14 +8,13 @@
 </p>
 <br>
 
-   <table>
-  <center>
+   <table align="center">
+  
       <tr>
          <td>You are visitor</td>
          <td><img src="https://profile-counter.glitch.me/vikramadityasinghs/count.svg" alt="vistor count" height="30" /></td>
       </tr>
-   </center>
-    </table>
+     </table>
 
 <h2 align="center">Skills and Technologies: </h2>
 <p align="center">
