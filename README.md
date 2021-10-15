@@ -1,11 +1,12 @@
 <h2 align="center"> Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">My name is Vikramaditya</h2>
+
+<h3><center><b>Computer Science student pursuing specialization in the field of Information Technology
+Currently trying to stack up skills to become a Web/IoT Developer</b></h3>
+</center>
 <img src="Connor Hamilton (1).png" alt="LinkedIn info">
 
 <br>
 
-<h3><center><b>Computer Science student pursuing specialization in the field of Information Technology</b><br>
-<b>Currently trying to stack up skills to become a Web/IoT Developer</b></h3>
-</center>
 <p align="center">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramadityasinghs&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="470" />
