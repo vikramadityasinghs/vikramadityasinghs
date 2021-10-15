@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">My name is Vikramaditya</h2>
 
-<h3><center><b>Computer Science student pursuing specialization in the field of Information Technology
+<h3><center><b>Computer Science student pursuing specialization in the field of Information Technology<br>
 Currently trying to stack up skills to become a Web/IoT Developer</b></h3>
 </center>
 <img src="Connor Hamilton (1).png" alt="LinkedIn info">
@@ -11,18 +11,18 @@ Currently trying to stack up skills to become a Web/IoT Developer</b></h3>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramadityasinghs&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="470" />
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramadityasinghs&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramadityasinghs&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB"  width="470" />
 </p>
 <br>
 
-
+<center>
 <table>
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/vikramadityasinghs/count.svg" alt="vistor count" height="30" /></td>
   </tr>
 </table> 
-
+</center>
 
 
 <h2 align="center">Skills and Technologies: </h2>
