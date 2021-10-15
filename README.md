@@ -50,15 +50,6 @@
 </p>
 
 
-
-- 🔭 I’m currently working on <br>
-1.personal projects
-
-
-- 🌱 I’m currently learning <br>
-1.learning web development<br>
-2.learning DS
-- 💬 currently brushing up my skills in<br>
 1.<img align="left" alt="C" width="20px" src="https://cdn.iconscout.com/icon/free/png-64/c-programming-569564.png" />C<br>
 2.<img align="left" alt="C++" width="20px" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png"/>C++<br>
 3.<img align="left" alt="HTML" width="20px" src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png"/>HTML<br>
