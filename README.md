@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Vikramaditya
+<h2 align="center"> Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">My name is Vikramaditya</h2>
 <img src="Connor Hamilton (1).png" alt="LinkedIn info">
 
 <br>
