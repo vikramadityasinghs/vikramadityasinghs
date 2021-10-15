@@ -3,10 +3,10 @@
 
 <br>
 
-
+<h3><center><b>Computer Science student pursuing specialization in the field of Information Technology</b><br>
+<b>Currently trying to stack up skills to become a Web/IoT Developer</b></h3>
+</center>
 <p align="center">
-<b>Computer Science student pursuing specialization in the field of Information Technology</b><br>
-<b>Currently trying to stack up skills to become a Web/IoT Developer</b>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramadityasinghs&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="470" />
   
