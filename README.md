@@ -7,15 +7,14 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramadityasinghs&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB"  width="470" />
 </p>
 <br>
-
-   <table align="center">
-  
+ <div  align="center">
+   <table>
       <tr>
          <td>You are visitor</td>
          <td><img src="https://profile-counter.glitch.me/vikramadityasinghs/count.svg" alt="vistor count" height="30" /></td>
       </tr>
      </table>
-
+</div>
 <h2 align="center">Skills and Technologies: </h2>
 <p align="center">
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
