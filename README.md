@@ -5,13 +5,14 @@
 
 
 <p align="center">
+<b>Computer Science student pursuing specialization in the field of Information Technology</b><br>
+<b>Currently trying to stack up skills to become a Web/IoT Developer</b>
+
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramadityasinghs&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="470" />
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramadityasinghs&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
 </p>
 <br>
-<b>Computer Science student pursuing specialization in the field of Information Technology</b><br>
-<b>Currently trying to stack up skills to become a Web/IoT Developer</b>
 
 
 <table>
