@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">My name is Vikramaditya</h2>
+<h2 align="center"> Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height ="30px" width="30px">My name is Vikramaditya</h2>
 <h3 align="center">Computer Science student pursuing specialization in the field of Information Technology currently trying to stack up skills to become a Web/IoT Developer</h3>
 <img src="Connor Hamilton (1).png" alt="LinkedIn info">
 <br>
