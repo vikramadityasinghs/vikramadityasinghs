@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height ="30px" width="30px">My name is Vikramaditya</h2>
-<h3 align="center">Software Developer</h3>
-<img src="Connor Hamilton (1).png" alt="LinkedIn info">
+<!-- <h3 align="center">Software Developer</h3> -->
+<!-- <img src="Connor Hamilton (1).png" alt="LinkedIn info"> -->
 <br>
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramadityasinghs&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
