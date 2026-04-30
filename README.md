@@ -1,4 +1,6 @@
 <h1 align="center">Hi there, I'm Vikramaditya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/381d9caa-c8dd-458d-b18d-f6b9b2b53390" />
+
 <h3 align="center">Software Engineer | Product Developer | Builder</h3>
 
 <p align="center">
