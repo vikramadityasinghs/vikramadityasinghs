@@ -1,45 +1,52 @@
-<h2 align="center"> Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height ="30px" width="30px">My name is Vikramaditya</h2>
-<!-- <h3 align="center">Software Developer</h3> -->
-<!-- <img src="Connor Hamilton (1).png" alt="LinkedIn info"> -->
-<br>
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramadityasinghs&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramadityasinghs&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB"  width="460" />
-</p>
-<br>
- <div  align="center">
-   <table>
-      <tr>
-         <td>You are visitor</td>
-         <td><img src="https://profile-counter.glitch.me/vikramadityasinghs/count.svg" alt="vistor count" height="30" /></td>
-      </tr>
-     </table>
-</div>
-<h2 align="center">Skills and Technologies: </h2>
-<div  align="center">
-   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
- <img src="https://img.shields.io/badge/nodejs%20-%23323330.svg?&style=for-the-badge&logo=nodedotjs"/>
- <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
- <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
- <img src="https://img.shields.io/badge/jsx%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%61DBFB"/><br>
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<h1 align="center">Hi there, I'm Vikramaditya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">Software Engineer | Product Developer | Builder</h3>
 
- 
- 
-</div>
-<h2 align="center">Feel Free to Connect! </h2>
 <p align="center">
-   <a href="https://www.linkedin.com/in/vikramadityasinghs">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
-   <a href="mailto:saxenavikramadityasingh@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
-   </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Building+at+the+intersection+of+UI+%26+AI;Exploring+Product+Management;Custom+PC+Builder+%26+Maker" alt="Typing SVG" />
 </p>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 Currently leading frontend development for the AI & Automation team at **Optum**.
+- 🌱 Deepening my expertise in **React.js, Next.js**, and enterprise-scale AI solutions.
+- 🚀 Recently built and deployed the landing page for **Murgikala** using React and Vercel.
+- 📈 Actively preparing for a career pivot into **Product Management**.
+- ⚡ **Fun fact:** When I'm not coding, you can find me assembling custom PCs, 3D printing mechanical components, or on the sports field!
+
+---
+
+### 🛠️ Skills & Technologies
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+</p>
+
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikramadityasinghs&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="48%" />
+  <img src="
