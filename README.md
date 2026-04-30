@@ -39,9 +39,6 @@
    <a href="https://www.linkedin.com/in/vikramadityasinghs">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-   <a href="https://www.instagram.com/vikramadityasinghsaxena">
-   <img src="https://img.shields.io/badge/Instagram-FC0938?style=for-the-badge&logo=instagram&logoColor=white" />
-   </a>
    <a href="mailto:saxenavikramadityasingh@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red" />
    </a>
