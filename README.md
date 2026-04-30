@@ -10,9 +10,6 @@
 ### 👨‍💻 About Me
 - 🔭 Currently leading frontend development for the AI & Automation team at **Optum**.
 - 🌱 Deepening my expertise in **React.js, Next.js**, and enterprise-scale AI solutions.
-- 🚀 Recently built and deployed the landing page for **Murgikala** using React and Vercel.
-- 📈 Actively preparing for a career pivot into **Product Management**.
-- ⚡ **Fun fact:** When I'm not coding, you can find me assembling custom PCs, 3D printing mechanical components, or on the sports field!
 
 ---
 
